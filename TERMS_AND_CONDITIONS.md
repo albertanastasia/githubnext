@@ -1,4 +1,4 @@
-# GITHUB NEXT PRE-RELEASE LICENSE TERMS
+albertanastasia:patch-1TERMS_AND_CONDITIONS.md# GITHUB NEXT PRE-RELEASE LICENSE TERMS
 
 These GitHub Next pre-release license terms are an agreement between you and GitHub, Inc. (“GitHub”). These terms apply to the pre-release software made available to you by GitHub, in addition to your main agreement with GitHub (together, the “Agreement”). To the extent there is a conflict between this Agreement and the terms in your main agreement with GitHub, these terms govern. 
 
